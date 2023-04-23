@@ -5,6 +5,16 @@
 
 This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints. The following provides an overview of all currently available models. More coming soon.
 
+## Gradio in docker running
+```
+git clone https://github.com/format37/StableLM.git
+cd StableLM
+sh build.sh
+sh run.sh
+```
+Result:
+![Gradio in docker running](/assets/result.png)
+
 ## News
 
 *April 20, 2023*
